@@ -11,11 +11,11 @@
 Training process 
 ----------
 
-  <img src="arm_vis/arm_3d.png" width="200px"/> 
+  <img src="arm_vis/arm_3d.png" width="500px"/> 
 
 
 Control interface visualization 
 ----------
 
-  <img src="arm_vis/visual.png" width="200px"/> 
+  <img src="arm_vis/visual.png" width="500px"/> 
 
