@@ -9,7 +9,7 @@ os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
 # env_tst = Env()
 agent_tst = Agent()
-agent_tst.actor.load_state_dict(torch.load("./model_test1/modela1750_.pth"))
+agent_tst.actor.load_state_dict(torch.load("./model_save/modela1750_.pth"))
 
 
 def cal_arm(t1, t2, t3, t4):
