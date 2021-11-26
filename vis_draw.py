@@ -4,8 +4,8 @@ from matplotlib.backend_bases import MouseButton
 from matplotlib.backend_bases import MouseEvent
 import numpy as np
 
-from RL_model_3d.arm import Viewer
-from RL_model_3d.visual_arm_3d import Loop, start_state, mid_state
+from arm import Viewer
+from visual_arm_3d import Loop, start_state, mid_state
 class DrawPoint:
     def __init__(self):
         self.fig = plt.figure(figsize=(12, 12), dpi=80)
