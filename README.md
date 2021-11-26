@@ -5,7 +5,7 @@
 
 # Requirements and Dependencies
 - pytorch 1.9.0
-- python 3.7
+- python 3.6
 
 
 Training process 
