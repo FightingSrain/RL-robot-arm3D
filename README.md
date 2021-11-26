@@ -15,7 +15,7 @@ Training process
 
 Reinforcement learning algorithms
 ----------
-  PPO
+  *PPO
 
 Control interface visualization 
 ----------
