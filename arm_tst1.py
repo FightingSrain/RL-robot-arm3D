@@ -5,9 +5,9 @@ import os
 import torch
 import numpy as np
 import matplotlib.pyplot as plt
-from RL_model_3d.Agent import Agent
-from RL_model_3d.Env import Env
-from RL_model_3d.arm import Viewer
+from Agent import Agent
+from Env import Env
+from arm import Viewer
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
