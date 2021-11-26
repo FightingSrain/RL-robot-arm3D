@@ -3,7 +3,7 @@ import os
 import torch
 import numpy as np
 import matplotlib.pyplot as plt
-from RL_model_3d.Agent import Agent
+from Agent import Agent
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 
