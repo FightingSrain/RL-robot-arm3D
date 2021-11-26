@@ -6,7 +6,7 @@ from torch.optim import *
 from torch import FloatTensor, LongTensor
 
 import numpy as np
-from RL_model_3d.net import ActorPPO, CriticAdv
+from net import ActorPPO, CriticAdv
 
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
