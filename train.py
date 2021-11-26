@@ -5,11 +5,11 @@ import torch
 import numpy as np
 import matplotlib.pyplot as plt
 
-from RL_model_3d.Agent import Agent
-from RL_model_3d.Env import Env
-from RL_model_3d.arm import Viewer
-from RL_model_3d.utils import sigmoid
-from RL_model_3d.Memory import ReplayBuffer
+from Agent import Agent
+from Env import Env
+from arm import Viewer
+from utils import sigmoid
+from Memory import ReplayBuffer
 
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 torch.backends.cudnn.enabled = True
