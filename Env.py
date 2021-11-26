@@ -1,6 +1,6 @@
 import numpy as np
-from RL_model_3d.arm import Viewer
-from RL_model_3d.utils import sigmoid
+from arm import Viewer
+from utils import sigmoid
 
 
 class Env():
