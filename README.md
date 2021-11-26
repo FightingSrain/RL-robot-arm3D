@@ -13,6 +13,9 @@ Training process
 
   <img src="arm_vis/arm_3d.png" width="500px"/> 
 
+Reinforcement learning algorithms
+----------
+  PPO
 
 Control interface visualization 
 ----------
