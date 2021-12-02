@@ -10,6 +10,7 @@
 Run
 ----------
 -Training run train.py
+
 -Visualization interface run vis_draw.py (Use the right mouse button to click on the x-y screen and the x-z screen)
 
 
