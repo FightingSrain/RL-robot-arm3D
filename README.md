@@ -7,6 +7,11 @@
 - pytorch 1.9.0
 - python 3.6
 
+Run
+----------
+-Training run train.py
+-Visualization interface run vis_draw.py (Use the right mouse button to click on the x-y screen and the x-z screen)
+
 
 Training process 
 ----------
